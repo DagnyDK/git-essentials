@@ -1,3 +1,2 @@
 This is the first push
-:wq
-q
+I do not like VIM but I have to use it. Just for practice
