@@ -1,1 +1,2 @@
-hows up in the new branch, cool huh yes 
+shows up in the new branch but in main also which confuses me
+I think this will show up in the second branch as well
